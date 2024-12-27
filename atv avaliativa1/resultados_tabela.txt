@@ -1,0 +1,10 @@
+Texto                          Bits em zero Nonce      Tempo (s) 
+Esse é fácil                   8            33         0.0000    
+Esse é fácil                   10           1610       0.0170    
+Esse é fácil                   15           24803      0.2515    
+Texto maior muda o tempo?      8            35         0.0010    
+Texto maior muda o tempo?      10           35         0.0000    
+Texto maior muda o tempo?      15           105344     1.0548    
+É possível calcular esse?      18           92698      0.9239    
+É possível calcular esse?      19           92698      0.9329    
+É possível calcular esse?      20           1802459    18.4273   
