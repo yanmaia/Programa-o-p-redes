@@ -1,0 +1,9 @@
+carros
+ventos
+pratos
+limões
+bananas
+flamengo
+planeta
+montanha
+chuveiro
